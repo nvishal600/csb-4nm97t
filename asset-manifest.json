@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://nvishal600.github.io/csb-4nm97t/static/css/main.bcea5813.chunk.css",
+    "main.js": "https://nvishal600.github.io/csb-4nm97t/static/js/main.1abdf89f.chunk.js",
+    "main.js.map": "https://nvishal600.github.io/csb-4nm97t/static/js/main.1abdf89f.chunk.js.map",
+    "runtime-main.js": "https://nvishal600.github.io/csb-4nm97t/static/js/runtime-main.3e247ede.js",
+    "runtime-main.js.map": "https://nvishal600.github.io/csb-4nm97t/static/js/runtime-main.3e247ede.js.map",
+    "static/js/2.e0018664.chunk.js": "https://nvishal600.github.io/csb-4nm97t/static/js/2.e0018664.chunk.js",
+    "static/js/2.e0018664.chunk.js.map": "https://nvishal600.github.io/csb-4nm97t/static/js/2.e0018664.chunk.js.map",
+    "index.html": "https://nvishal600.github.io/csb-4nm97t/index.html",
+    "static/css/main.bcea5813.chunk.css.map": "https://nvishal600.github.io/csb-4nm97t/static/css/main.bcea5813.chunk.css.map",
+    "static/js/2.e0018664.chunk.js.LICENSE.txt": "https://nvishal600.github.io/csb-4nm97t/static/js/2.e0018664.chunk.js.LICENSE.txt",
+    "static/media/delete.4cf85250.png": "https://nvishal600.github.io/csb-4nm97t/static/media/delete.4cf85250.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e247ede.js",
+    "static/js/2.e0018664.chunk.js",
+    "static/css/main.bcea5813.chunk.css",
+    "static/js/main.1abdf89f.chunk.js"
+  ]
+}
